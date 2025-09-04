@@ -1,0 +1,1 @@
+openai_api = "apikeys" #platform.openai.com
